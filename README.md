@@ -1,6 +1,6 @@
 # RAVI-2022-2023
 RAVI NEWLY ADDED FUNCTIONALITY FILES
-The problem statement for this project is the inability of visually impaired students to understand STEM material due to their inability to see figures which describe experiments or provide illustrations. 
+The problem statement for this project is the inability of visually impaired students to understand STEM material due to their inability to see figures which describe experiments or provide illustrations. <br>
 The solution proposed in this project is to develop an automated tool for converting inaccessible STEM documents into an accessible format that can be understood by visually impaired students just by hearing in the same way as a normal student understands it by reading.
 The project includes two main components: 
 The previously made RAVI tools and a web application for crowdsourcing image description. 
