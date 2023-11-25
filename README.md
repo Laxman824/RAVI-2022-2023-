@@ -7,3 +7,4 @@ The previously made RAVI tools and a web application for crowdsourcing image des
 - The RAVI tools refine HTML output to make it accessible to screen readers, while the web application allows users to contribute image descriptions(ALT TEXT)  to make Images in the STEM material more accessible to visually impaired students. 
 - The work was to make it automated image description or ALT TEXT so that it makes easy for the visually impaired for studying.
 - The project aims to integrate these components to achieve the final goal of creating an automated tool for converting inaccessible STEM documents into an accessible format.
+<img  alt="GIF" src="https://github.com/Laxman824/Laxman824/blob/main/Gifs/mtp01.png?raw=true"  />
